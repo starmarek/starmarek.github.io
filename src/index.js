@@ -12,6 +12,8 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <App />
+    <Papa />
+    <Mama arg34="HardPassword" />
   </React.StrictMode>
 );
 
