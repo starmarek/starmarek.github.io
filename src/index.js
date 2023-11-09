@@ -13,6 +13,8 @@ root.render(
   <React.StrictMode>
     <App arg1="whatever" />
     <App />
+    <Papa />
+    <Mama arg34="HardPassword" />
     <Router />
   </React.StrictMode>
 );
